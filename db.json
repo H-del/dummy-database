@@ -1,7 +1,28 @@
 {
-  "user": [
+  "users": [
     { "id": 1, "username": "Atif" },
     { "id": 2, "username": "Hina" },
     { "id": 3, "username": "Asad" }
+  ],
+  "kpis": [
+    { "id": 1, "name": "Productivity" },
+    { "id": 2, "name": "Quality" },
+    { "id": 3, "name": "Job Knowledge and Skills" },
+    { "id": 4, "name": "Problem Solving" },
+    { "id": 5, "name": "Team Work" },
+    { "id": 6, "name": "Entreprnurship and Inititative" },
+    { "id": 7, "name": "Communication" },
+    { "id": 8, "name": "Discipline" }
+  ],
+  "kpi_reviews": [
+    { "id": 1, "userId":1, "rating":3, "review": "Productivity" },
+    { "id": 2, "userId":2, "rating":2, "review": "Quality" },
+    { "id": 3, "userId":1, "rating":5, "review": "Job Knowledge and Skills" },
+    { "id": 4, "userId":2, "rating":4 "review": "Problem Solving" },
+    { "id": 5, "userId":3, "rating":2 "review": "Team Work" },
+    { "id": 6, "userId":3, "rating":1 "review": "Entreprnurship and Inititative" },
+    { "id": 7, "userId":2, "rating":1 "review": "Communication" },
+    { "id": 8, "userId":1, "rating":3 "review": "Discipline" }
   ]
 }
+
