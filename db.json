@@ -15,14 +15,68 @@
     { "id": 8, "name": "Discipline" }
   ],
   "kpi_reviews": [
-    { "id": 1,"kpiId":1, "userId": 1, "rating": 3, "review": "Productivity" },
-    { "id": 1,"kpiId":1, "userId": 1, "rating": 3, "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." },
-    { "id": 2,"kpiId":2, "userId": 2, "rating": 2, "review": "Quality" },
-    { "id": 3,"kpiId":3, "userId": 1, "rating": 5, "review": "Job Knowledge and Skills" },
-    { "id": 4,"kpiId":4, "userId": 2, "rating": 4, "review": "Problem Solving" },
-    { "id": 5,"kpiId":2, "userId": 3, "rating": 2, "review": "Team Work" },
-    { "id": 6,"kpiId":3, "userId": 3, "rating": 1, "review": "Entreprnurship" },
-    { "id": 7,"kpiId":5, "userId": 2, "rating": 1, "review": "Communication" },
-    { "id": 8,"kpiId":8, "userId": 1, "rating": 3, "review": "Discipline" }
+    {
+      "id": 1,
+      "kpi": { "id": 1, "name": "Productivity" },
+      "userId": 1,
+      "rating": 3,
+      "review": "Productivity"
+    },
+    {
+      "id": 1,
+      "kpi": { "id": 2, "name": "Quality" },
+      "userId": 1,
+      "rating": 3,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 2,
+      "kpi": { "id": 3, "name": "Job Knowledge and Skills" },
+      "userId": 2,
+      "rating": 2,
+      "review": "Quality"
+    },
+    {
+      "id": 3,
+      "kpi": { "id": 4, "name": "Problem Solving" },
+      "userId": 1,
+      "rating": 5,
+      "review": "Job Knowledge and Skills"
+    },
+    {
+      "id": 4,
+      "kpi": { "id": 5, "name": "Team Work" },
+      "userId": 2,
+      "rating": 4,
+      "review": "Problem Solving"
+    },
+    {
+      "id": 5,
+      "kpi": { "id": 6, "name": "Entreprnurship and Inititative" },
+      "userId": 3,
+      "rating": 2,
+      "review": "Team Work"
+    },
+    {
+      "id": 6,
+      "kpi": { "id": 7, "name": "Communication" },
+      "userId": 3,
+      "rating": 1,
+      "review": "Entreprnurship"
+    },
+    {
+      "id": 7,
+      "kpi": { "id": 6, "name": "Entreprnurship and Inititative" },
+      "userId": 2,
+      "rating": 1,
+      "review": "Communication"
+    },
+    {
+      "id": 8,
+      "kpi": { "id": 8, "name": "Discipline" },
+      "userId": 1,
+      "rating": 3,
+      "review": "Discipline"
+    }
   ]
 }
