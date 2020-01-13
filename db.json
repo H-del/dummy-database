@@ -66,7 +66,7 @@
             },
             "userId": 1,
             "rating": 3,
-            "review": "as made frequent errors that are harmful to business operations.The supervisor/department head has received numerous complaints about the quality of work.The quality of work produced is unacceptable.Does not complete required paperwork"
+            "review": "Performance consistently met expectations in all essential areas of responsibility, at times possibly exceeding expectations, and the quality of work overall was very good. The most critical annual goals were met."
         },
         {
             "id": 2,
@@ -76,7 +76,7 @@
             },
             "userId": 2,
             "rating": 2,
-            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "review": "Does not stock one's work; prioritizes and schedules own tasks and delivers quality work without missing deadlines.Gets to work early in order to set the day's agenda; is always punctual and tries all one can to avoid being late.Stays late if it makes a difference in the success of a project one is working on or tasks one is accomplishing"
         },
         {
             "id": 3,
@@ -96,7 +96,7 @@
             },
             "userId": 2,
             "rating": 4,
-            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "review": "Listens carefully to what others are saying without interrupting them.Always questions what the team is doing to try to ensure that everyone is benefiting.Respects the ideas and opinions that the other team members have to say."
         },
         {
             "id": 5,
@@ -106,7 +106,7 @@
             },
             "userId": 3,
             "rating": 2,
-            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "review": "Always full of determination and starts with setting clear goals.Never afraid to take risks and is fully devoted to making everything work.Demonstrates high level of confidence when executing ideas and gets the job done even under stressful conditions."
         },
         {
             "id": 6,
@@ -126,7 +126,7 @@
             },
             "userId": 2,
             "rating": 1,
-            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "review": "Always a step ahead of competitors and always craves to learn more.Views failure as part of the game and takes failure as a learning experience to realize success.Possesses exceptional ability to adapt and thrive in any environment"
         },
         {
             "id": 8,
@@ -136,7 +136,7 @@
             },
             "userId": 1,
             "rating": 3,
-            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "review": "Recognizes the moments when one gets the urge to act impulsively in order to be more equipped to create a delay between the action and the urge.Uses momentary distractions to replace the behavior one wants to control actively."
         }
     ]
 }
