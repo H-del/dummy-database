@@ -56,7 +56,7 @@
             },
             "userId": 1,
             "rating": 3,
-            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "review": "Has made frequent errors that are harmful to business operations.The supervisor/department head has received numerous complaints about the quality of work.The quality of work produced is unacceptable.Does not complete required paperwork."
         },
         {
             "id": 1,
@@ -66,7 +66,7 @@
             },
             "userId": 1,
             "rating": 3,
-            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "review": "as made frequent errors that are harmful to business operations.The supervisor/department head has received numerous complaints about the quality of work.The quality of work produced is unacceptable.Does not complete required paperwork"
         },
         {
             "id": 2,
@@ -116,7 +116,7 @@
             },
             "userId": 3,
             "rating": 1,
-            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            "review": "Reports, forms, memos and correspondence are often completed late or not at all.Uses a condescending tone when talking to others in the office."
         },
         {
             "id": 7,
