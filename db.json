@@ -190,49 +190,6 @@
             "Done": "15",
             "NotDone": "5"
         }
-    ],
-    "HR-Department": [
-        {
-            "id": "0",
-            "Total Employee": "6",
-            "NoReview": "6",
-            "Done": "6",
-            "NotDone": "0"
-        },
-        {
-            "id": "1",
-            "Total Employee": "5",
-            "NoReview": "20",
-            "Done": "15",
-            "NotDone": "5"
-        },
-        {
-            "id": "2",
-            "Total Employee": "5",
-            "NoReview": "20",
-            "Done": "10",
-            "NotDone": "10"
-        },
-        {
-            "id": "3",
-            "Total Employee": "8",
-            "NoReview": "33",
-            "Done": "30",
-            "NotDone": "3"
-        },
-        {
-            "id": "4",
-            "Total Employee": "8",
-            "NoReview": "190",
-            "Done": "15",
-            "NotDone": "0"
-        },
-        {
-            "id": "5",
-            "Total Employee": "6",
-            "NoReview": "20",
-            "Done": "15",
-            "NotDone": "5"
-        }
     ]
+           
 }
