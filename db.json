@@ -220,20 +220,6 @@
                 "NoReview": "33",
                 "Done": "30",
                 "NotDone": "3"
-            },
-            {
-                "id": "4",
-                "TotalEmployee": "15",
-                "NoReview": "190",
-                "Done": "15",
-                "NotDone": "0"
-            },
-            {
-                "id": "5",
-                "TotalEmployee": "20",
-                "NoReview": "20",
-                "Done": "15",
-                "NotDone": "5"
-            }
+            }    
         ]
 }
